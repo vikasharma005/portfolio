@@ -41,7 +41,7 @@
     "color": "^4.2.3",
     "dayjs": "^1.10.7",
     "dotenv": "^8.6.0",
-    "isomorphic-unfetch": "^3.1.0",
+    "isomorphic-unfetch": "^4.0.2",
     "normalize.css": "^8.0.1",
     "react": "^16.14.0",
     "react-circular-progressbar": "^2.0.4",
